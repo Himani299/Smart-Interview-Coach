@@ -12,7 +12,9 @@ Automatic question display on startup
 Answer input via:
 
 ⌨️ Text
+
 🎤 Voice (Speech-to-Text)
+
 🔊 Text-to-Speech (questions are spoken aloud)
 
 Scoring system based on:
@@ -37,6 +39,8 @@ Functions, Lists, Dictionaries
 📂 Project Structure
 smart_interview_coach/ │ ├── main.py ├── logic.py ├── questions.py ├── data/ │ └── responses.txt
 
+
+
 ▶️ How to Run
 Open project in VS Code
 
@@ -46,6 +50,8 @@ pip install pyttsx3 SpeechRecognition
 Run:
 
 python main.py
+
+
 🎯 Future Scope
 AI-based feedback using NLP models
 Better speech accuracy and offline support
