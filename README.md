@@ -53,8 +53,18 @@ python main.py
 
 
 🎯 Future Scope
+
+
 AI-based feedback using NLP models
+
+
 Better speech accuracy and offline support
+
+
 More interview categories (technical, HR, situational)
+
+
 Performance analytics dashboard
+
+
 Web-based version
