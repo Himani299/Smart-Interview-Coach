@@ -68,3 +68,19 @@ Performance analytics dashboard
 
 
 Web-based version
+
+👩‍💻 My Contribution
+
+I worked primarily on the Graphical User Interface (GUI) of the project using Tkinter.
+
+My contributions included:
+
+Designing the overall application interface
+
+Creating and arranging GUI components such as buttons, labels, text fields, and frames
+
+Implementing the user interaction flow
+
+Connecting GUI actions with the interview logic
+
+Improving the usability and presentation of the application
