@@ -33,11 +33,7 @@ SpeechRecognition (voice input)
 pyttsx3 (text-to-speech)
 File Handling
 Functions, Lists, Dictionaries
-👥 Team Members
-Member 1 – GUI Development
-Member 2 – Logic & Scoring
-Member 3 – Data & Questions
-Member 4 – Integration & Testing
+
 📂 Project Structure
 smart_interview_coach/ │ ├── main.py ├── logic.py ├── questions.py ├── data/ │ └── responses.txt
 
