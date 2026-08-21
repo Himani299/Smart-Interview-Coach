@@ -1,0 +1,60 @@
+Q: Describe a challenge you faced.
+A: solve in a group so we I took the initiative and divided the work
+Score: 1
+
+Q: Describe a challenge you faced.
+A: well waking up early has been a task for
+Score: 0
+
+Q: Tell me about yourself.
+A: I am a bishopite
+Score: 0
+
+Q: Describe a challenge you faced.
+A: waking up early
+Score: 0
+
+Q: Tell me about yourself.
+A: my name is Ishita Nikam I am a first year engineering student and I have skills like programming and website development
+Score: 3
+
+Q: Tell me about a team project.
+A: project I worked on was a Python project for an AI interview coach
+Score: 1
+
+Q: Describe a challenge you faced.
+A: coordination in a group so I took initiative and divided the task among ourselves this was the challenged by faced and hawai adda
+Score: 1
+
+Q: What are your strengths?
+A: my strength would be the hard work and determination I have to do something
+Score: 1
+
+Q: What are your strengths?
+A: my strength would be the hard work and determination I have to do something
+Score: 1
+
+Q: Tell me about yourself.
+A: Ishita Nigam I am a first year engineering student with interest in website development and programming
+Score: 2
+
+Q: What are your strengths?
+A: i would say my strengthsa are being a good listener, being a hard worker and keeping calm under pressure.
+Score: 1
+
+Q: Why should we hire you?
+A: welll, my skills match the requirements of your company. allso, i would love the learn and grow my technical skillls in this position
+Score: 2
+
+Q: Tell me about a team project.
+A: project i  worked on in first year was smart interview coach. i contributed actively
+Score: 1
+
+Q: Describe a challenge you faced.
+A: faced was being consistent with my work
+Score: 0
+
+Q: Tell me about yourself.
+A: Ishita I am hardworking student, i know languages like java and C. I am an avid problem solver and analyzer. i also enjoy website development
+Score: 3
+
